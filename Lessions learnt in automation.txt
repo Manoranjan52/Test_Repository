@@ -1,0 +1,8 @@
+1. should know what to be automated
+2. Tool selection
+3. Feedback and review
+4. Maintaining the suit.
+5. Speak the same language as developers speak
+6. Domain knowledge is required
+7. End to end testing is required.
+8. shorten the time. Make execution fast.
