@@ -1,0 +1,45 @@
+iPhone7Plus
+------------		
+device:"iPhone9,4", 
+device_os_version:"iOS 10.2.1", 
+device_type:"iPhone 7 Plus", 
+os:"OSX", 
+os_version:"10.12", 
+type:"iOS Gateway", 
+version:"4.3"
+
+GalaxyS5
+--------
+device:"klte", 
+device_os:"Android", 
+device_os_version:"4.4.2", 
+manufacturer:"samsung", 
+model:"SM-G900I", 
+product:"kltedv", 
+protocol_version:"2.6", 
+serial:"6989962b", 
+SystemNative2BuildNumber:"N/A", 
+SystemNative2BuildTime:"2017-08-28, 22:49:19", 
+type:"SystemNative2"
+
+
+com.android.chrome -- Chrome for Android
+com.bendigobank.mobile.svt
+com.bendigobank.mobile.development
+com.bendigobank.mobile.sit
+com.bendigobank.mobile.uat
+com.bendigobank.mobile.app_support
+
+
+6/11/17, 4:59:51 pm	START		Running Selection from Untitled1.script
+6/11/17, 4:59:52 pm	Log		(iPhone7S : AACredentialRecoveryDialog,iPhone7S : AccountAuthenticationDialog,iPhone7S : Activity,iPhone7S : App Store,iPhone7S : AskPermissionUI,iPhone7S : Calculator,iPhone7S : Calendar,iPhone7S : Camera,iPhone7S : Clock,iPhone7S : Compass,iPhone7S : CompassCalibrationViewService,iPhone7S : Contacts,iPhone7S : DataActivation,iPhone7S : DDActionsService,iPhone7S : DemoApp,iPhone7S : Diagnostics,iPhone7S : DiagnosticsService,iPhone7S : FacebookAccountMigrationDialog,iPhone7S : FaceTime,iPhone7S : Family,iPhone7S : Feedback,iPhone7S : FieldTest,iPhone7S : Find Friends,iPhone7S : Find iPhone,iPhone7S : Game Center UI Service,iPhone7S : Game Controller,iPhone7S : GarageBand,iPhone7S : Gmail,iPhone7S : Health,iPhone7S : HealthPrivacyService,iPhone7S : Home,iPhone7S : HomeUIService,iPhone7S : iAd,iPhone7S : iAd,iPhone7S : iBooks,iPhone7S : iCloud,iPhone7S : iCloud Drive,iPhone7S : iMovie,iPhone7S : InCallService,iPhone7S : iTunes,iPhone7S : iTunes Store,iPhone7S : iTunes U,iPhone7S : Keynote,iPhone7S : Magnifier,iPhone7S : Mail,iPhone7S : MailCompositionService,iPhone7S : Maps,iPhone7S : Messages,iPhone7S : MessagesNotificationViewService,iPhone7S : MessagesViewService,iPhone7S : MobileReplayer,iPhone7S : Music,iPhone7S : MusicUIService,iPhone7S : News,iPhone7S : Notes,iPhone7S : Numbers,iPhone7S : Pages,iPhone7S : PassbookUIService,iPhone7S : Phone,iPhone7S : Photos,iPhone7S : PhotosViewService,iPhone7S : Podcasts,iPhone7S : PreBoard,iPhone7S : Print Centre,iPhone7S : Reminders,iPhone7S : Rural Bank,iPhone7S : Safari,iPhone7S : SafariViewService,iPhone7S : ScreenSharingViewService,iPhone7S : Server Drive,iPhone7S : Set-up,iPhone7S : Settings,iPhone7S : SharedWebCredentialViewService,iPhone7S : SharingViewService,iPhone7S : Siri,iPhone7S : SLGoogleAuth,iPhone7S : SLYahooAuth,iPhone7S : SocialUIService,iPhone7S : Stocks,iPhone7S : StoreDemoViewService,iPhone7S : TencentWeiboAccountMigrationDialog,iPhone7S : Test,iPhone7S : Tips,iPhone7S : TrustMe,iPhone7S : TV,iPhone7S : User Authentication,iPhone7S : Videos,iPhone7S : VideoSubscriberAccountViewService,iPhone7S : Voice Memos,iPhone7S : Wallet,iPhone7S : Watch,iPhone7S : WatchListViewService,iPhone7S : Weather,iPhone7S : Web,iPhone7S : WebApp1,iPhone7S : WebContentAnalysisUI,iPhone7S : WebSheet)
+Selection Executed in 0:00:01
+
+
+
+
+
+
+
+
+
